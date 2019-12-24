@@ -1,0 +1,8 @@
+echo "You have been pwn'd:"
+echo ""
+echo "1) Please never run curl scripts without looking at them first."
+echo "2) Please do not trust GitHub URLs with commit SHAs in them, anyone can author them on a fork."
+echo "3) Please do not trust GitHub commit authors, anyone can impersonate them."
+echo ""
+echo "Have a nice day!"
+echo ""
